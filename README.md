@@ -52,9 +52,8 @@ Check out my [Itch.io](https://shadow-papaya.itch.io/)!
 #### LinkedIn
 > [Olai Rovira Álvarez](https://www.linkedin.com/in/olai-rovira-álvarez-167165341)  
 
-
-#### Personal Github
-> [olairov](https://github.com/olairov)  
+#### School Github
+> [OlaiPapaya](https://github.com/OlaiPapaya)  
 
 #### Itch.io
 > [Shadow Papaya](https://shadow-papaya.itch.io/)  
